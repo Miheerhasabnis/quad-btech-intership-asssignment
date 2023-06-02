@@ -1,0 +1,50 @@
+.container {
+    width: 100vw;
+    margin: 0 auto;
+    padding: 20px;
+   background-color: rgb(8, 85, 63);
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 29rem;
+    
+    color: rgb(13, 12, 12);
+    border: 2px solid black;
+  }
+  
+  .show {
+    margin-bottom: 30px;
+    border: 2px solid black;
+    padding: 20px;
+    background-color: aquamarine;
+  }
+  
+  .show h2 {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+    border: 1.5px solid black;
+    background-color: rgb(193, 151, 233);
+  }
+  
+  .show p {
+    font-size: 1.25rem;
+    margin-bottom: 15px;
+  }
+  
+  .show a {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+  }
+  
+  .show a:hover {
+    background-color: #0056b3;
+  }
+  .show Link{
+   text-align: center;
+  }
